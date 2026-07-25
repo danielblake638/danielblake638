@@ -1,8 +1,3 @@
-<!-- ============================================================
-     FOREST — id 12
-     Placeholder danielblake638 gets substituted at deploy time.
-     ============================================================ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d5016,50:4a7c59,100:f4a261&height=270&section=header&text=danielblake638&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Grow+code+like+moss+on+stone&descSize=18&descColor=ffffff99&descAlignY=52"/>
